@@ -1,1 +1,1 @@
-# Tech-Courses-App-main
+# Tech-Courses-App
